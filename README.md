@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 
-ADDED A TEST FILE To Test and Run Compile
+ADDED A Test File To Test & Run Compile
 
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
